@@ -1,1 +1,20 @@
-44
+
+As a developer i have created Apex triggers to automate record creation.
+Inorder to Synchronize Salesforce data with an external system,i have Created asynchronous REST callouts
+Using Apex code i have scheduled the synchronous classes
+Written the Test calsses for synchronous & asyncronuos apex clases
+I have worked on Debug and troubleshoot activities.
+I have developed Apex Code that will scale to large data sets
+Developed custom interfaces using Visualforce
+I have desinged the test strategy that will ensure quality of code
+I have worked on automated business processes to send emails, create related records, and submit opportunities for approval
+Worked on  flow builder to display dynamic information on a Lightning record page
+Create a process to evaluate and update records using Process builder
+
+Lightning:
+Created Aura components using the Lightning Design System and custom CSS.
+I have Created and invoke Apex controller methods to read data from custom objects 
+I have worked on component events to enable communication between parent and child components.
+I have worked on application events to enable communication among the components inside the org.
+I have worked on Lightning Data Service to read and write custom object data
+
