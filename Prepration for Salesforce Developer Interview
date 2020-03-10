@@ -1,3 +1,4 @@
+tip: would you like to hear more detail on that, or does that give you the basics of what you wanted to know
 
 As a developer i have created Apex triggers to automate record creation.
 Inorder to Synchronize Salesforce data with an external system,i have Created asynchronous REST callouts
